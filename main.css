@@ -1,0 +1,52 @@
+#quations{
+    border: 2px solid ;
+    height: 1000px;
+    width: 100%;
+    background-color: black;
+}
+#foot{
+    /* border: 2px solid; */
+    height: 200px;
+    width: 80%;
+    margin: auto;
+}
+#foot h3{
+    margin-top: 50px;
+    color: white;
+    padding-left: 300px;
+    font-size: 30px;
+    font-weight: 400;
+}
+#foot input{
+    margin-left: 300px;
+    opacity: 0.4;
+    color:white;
+    padding: 10px;
+    
+}
+#foot a button{
+    background-color: red;
+    color: white;
+    padding: 5px;
+}
+#last{
+    border: 2px solid;
+    height: 500px;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+#footer{
+    /* border: 2px solid red; */
+    height: 200px;
+    width: 70%;
+}
+#footer ol{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#footer ol li a{
+    color: white;
+}
